@@ -10,8 +10,23 @@ In Back-End side, layered architecture is built through using boot spring framew
 Database side, while working, MySql's enough about request of back-end side.
 While developing project, Some faced problems're make interact between front-end and back-end. Firstly, axios that's dependency of react had been used for http request to sending data, but It hadn't been success. If You can work it, Please interact with me.
 
+# Requirements
+- Java 16, 11, 8
+- npm
 
 # Installation
+
+## Java
+- Open a command prompt window and go to the directory where you saved the java program (MyFirstJavaProgram.java). Assume it's C:\.
+
+- Type 'javac CellBroadcastTestBecnh.java' and press enter to compile your code. If there are no errors in your code, the command prompt will take you to the next line (Assumption: The path variable is set).
+
+- Now, type ' java CellBroadcastTestBecnh ' to run your program.
+
+- You will be able to see the result printed on the window.
+- Now It's ready, you can entry http://localhost:6006  using explorer. 
+
+## React
 React has been designed for gradual adoption from the start, and you can use as little or as much React as you need:
 
 -Use [Online Playgrounds](https://reactjs.org/docs/getting-started.html#online-playgrounds) to get a taste of React.
