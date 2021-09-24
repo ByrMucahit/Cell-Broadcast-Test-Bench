@@ -35,5 +35,4 @@ React has been designed for gradual adoption from the start, and you can use as 
   You can use React as a <script> tag from a [CDN](https://reactjs.org/docs/cdn-links.html), or as a react package on [npm](https://www.npmjs.com/package/react).
   
 # License
-
-
+This code is released under the MIT License
