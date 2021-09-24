@@ -21,7 +21,7 @@ While developing project, Some faced problems're make interact between front-end
 
 - Type 'javac CellBroadcastTestBecnh.java' and press enter to compile your code. If there are no errors in your code, the command prompt will take you to the next line (Assumption: The path variable is set).
 
-- Now, type ' java CellBroadcastTestBecnh ' to run your program.
+- Now, type ' java CellBroadcastTestBench ' to run your program.
 
 - You will be able to see the result printed on the window.
 - Now It's ready, you can entry http://localhost:6006  using explorer. 
