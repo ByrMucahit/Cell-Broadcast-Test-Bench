@@ -1,5 +1,5 @@
 # Cell Broadcast Bench
-[![semantic-ui version](https://img.shields.io/badge/React-label-blue)](https://tr.reactjs.org/docs/getting-started.html)
+[![semantic-ui version](https://img.shields.io/badge/React-17.0.2-blue)](https://tr.reactjs.org/docs/getting-started.html)
 
 
 # Description
