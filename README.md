@@ -1,5 +1,5 @@
 # Cell Broadcast Bench
-[![semantic-ui version](https://img.shields.io/badge/React-17.0.2-blue)](https://tr.reactjs.org/docs/getting-started.html)
+[![react version](https://img.shields.io/badge/React-17.0.2-blue)](https://tr.reactjs.org/docs/getting-started.html)  [![npm version](https://img.shields.io/badge/npm-6.14.15-red)](https://docs.npmjs.com/getting-started)  [![java version](https://img.shields.io/badge/java-16.0.2-orange](https://docs.oracle.com/en/java/)
 
 
 # Description
